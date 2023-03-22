@@ -1,0 +1,4 @@
+﻿  SetLab4_Zhigalov.cpp
+E:\Динамические структуры\SetLav4_PDSD\SetLab4_Zhigalov.cpp(95,38): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Динамические структуры\SetLav4_PDSD\SetLab4_Zhigalov.cpp(109,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SetLav4_PDSD.vcxproj -> E:\Динамические структуры\SetLav4_PDSD\x64\Debug\SetLav4_PDSD.exe
