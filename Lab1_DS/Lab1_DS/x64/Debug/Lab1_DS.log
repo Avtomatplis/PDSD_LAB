@@ -1,0 +1,3 @@
+﻿  SetLab1_2_zhigalov.cpp
+E:\Динамические структуры\Lab1_DS\Lab1_DS\SetLab1_2_zhigalov.cpp(132,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab1_DS.vcxproj -> E:\Динамические структуры\Lab1_DS\x64\Debug\Lab1_DS.exe
