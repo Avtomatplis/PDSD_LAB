@@ -1,0 +1,10 @@
+﻿  SetLab5_Zhigalov.cpp
+E:\Динамические структуры\SetLab5_PDSD\SetLab5_Zhigalov.cpp(85,2): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Динамические структуры\SetLab5_PDSD\SetLab5_Zhigalov.cpp(99,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Set_Cont_Set_zhigalov.cpp
+E:\Динамические структуры\SetLab5_PDSD\Set_Cont_Set_zhigalov.cpp(15,74): warning C4305: аргумент: усечение из "int" в "char"
+E:\Динамические структуры\SetLab5_PDSD\Set_Cont_Set_zhigalov.cpp(15,70): warning C4309: аргумент: усечение константного значения
+E:\Динамические структуры\SetLab5_PDSD\Set_Cont_Set_zhigalov.cpp(16,74): warning C4305: аргумент: усечение из "int" в "char"
+E:\Динамические структуры\SetLab5_PDSD\Set_Cont_Set_zhigalov.cpp(16,70): warning C4309: аргумент: усечение константного значения
+  Создание кода...
+  SetLab5_PDSD.vcxproj -> E:\Динамические структуры\SetLab5_PDSD\x64\Debug\SetLab5_PDSD.exe
